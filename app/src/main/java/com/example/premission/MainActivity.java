@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     PermissionUtil permissionUtil;
     Button btnRead, btnWrite, btnCamera, btnAll;
-
+//int
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
